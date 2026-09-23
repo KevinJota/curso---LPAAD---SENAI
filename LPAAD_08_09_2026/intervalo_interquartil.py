@@ -1,0 +1,6 @@
+def calcular_intervalo_interquartil(lista):
+
+    q1, _, q3 = calcula_quartil(lista) # tá no outro arquivo PY......
+    return q3 - q1
+# desconsiderando o q2........
+

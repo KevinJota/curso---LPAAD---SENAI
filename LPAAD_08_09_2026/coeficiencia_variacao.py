@@ -1,0 +1,1 @@
+# utiliza todas funções, medidas utilizadas anteriormente aqui
